@@ -14,7 +14,7 @@
   "author": "mjbecze <mjbecze@gmail.com>",
   "license": "MPL-2.0",
   "dependencies": {
-    "node-dir": "^0.1.16"
+    "node-dir": "^0.1.17"
   },
   "devDependencies": {
     "ethereumjs-util": "^5.0.1"
