@@ -25,6 +25,8 @@ const getTests = exports.getTests = (testType, onFile, fileFilter = /.json$/, sk
       for (let testName in tests) {
         if (!skipFn(testName)) {
           onFile(fileName, testName, tests[testName]).then(next)
+        } else {
+          next()
         }
       }
     }, (err, files) => {
