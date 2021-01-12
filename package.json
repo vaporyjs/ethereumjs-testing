@@ -16,7 +16,7 @@
   "author": "mjbecze <mjbecze@gmail.com>",
   "license": "MPL-2.0",
   "dependencies": {
-    "asyncawait": "^1.0.6",
+    "asyncawait": "git+https://github.com/vaporyjs/asyncawait.git#7a1ea9829e83d154ff9922a8c39ad8caa2dbf412",
     "node-dir": "^0.1.16"
   },
   "devDependencies": {
