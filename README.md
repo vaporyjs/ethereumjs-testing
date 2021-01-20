@@ -1,4 +1,4 @@
-# ethereumjs-testing
-testing utilities for the ethereumjs stack
+# vaporyjs-testing
+testing utilities for the vaporyjs stack
 
-Uses the offical [Ethereum Tests](https://github.com/ethereum/tests)
+Uses the offical [Vapory Tests](https://github.com/vaporyco/tests)
