@@ -1,7 +1,7 @@
 {
   "name": "vaporyjs-testing",
   "namespace": "vaporyjs",
-  "version": "1.0.4",
+  "version": "1.0.4-a",
   "description": "test utils for vaporyjs-*",
   "main": "index.js",
   "scripts": {
